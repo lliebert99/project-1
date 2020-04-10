@@ -1,6 +1,6 @@
 # CIT 281 Project 1
 
-![octocat](/images/octocat.png)
+<img src="images/octocat.png" width="200" heigh="200"/>
 
 ## Learning Objectives
 
